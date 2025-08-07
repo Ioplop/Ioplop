@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ioplop - SleepingSnail
 - 👀 I’m interested in programming videogames and composing music.
 - 🌱 I’m currently learning how to get up from my bed.
-- 💞️ I’m looking to collaborate on anything simple enough for a n00b like me.
 - 📫 How to reach me: You can send me an email at ishk909@gmail.com.
