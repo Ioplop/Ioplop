@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ioplop - SleepingSnail
 - 👀 I’m interested in programming videogames and composing music. Lately I don't have much time for the music.
-- 💻 I'm currently working as a python developer, specifically for in Odoo.
+- 💻 I'm currently working as a python developer, specifically in Odoo, with a custom document management system.
 - 🔒 Most of my work is sadly in private repos, but I'm trying to make public what I can.
-- 🎮 Currently also starting to work on a Tower Defense videogame with [@yanzilla](https://github.com/yanzilla1/). The project should truly begin this week!
+- 🎮 Currently also starting to work on a Tower Defense videogame with [@yanzilla](https://github.com/yanzilla1/). The project should truly begin by April 2026!
 - 📫 How to reach me: You can send me an email at ishk909@gmail.com.
